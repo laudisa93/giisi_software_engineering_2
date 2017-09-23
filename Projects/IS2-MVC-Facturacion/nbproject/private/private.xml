@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/ClienteModel.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/ClienteModelImpl.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/FacturaModel.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/FacturaModelImpl.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/entidades/Cliente.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/persistencia/JDBC/ClienteDAOJDBC.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/persistencia/JDBC/FacturaDAOJDBC.java</file>
+        <file>file:/C:/Users/laudisa93/Dropbox/INGENIERIA%20INFORMATICA/SEGUNDO/SEGUNDO%20SEMESTRE/Ingeniería%20del%20Software%20II/EPD's/IS2-MVC-Facturacion/IS2-MVC-Facturacion/src/modelo/persistencia/JDBC/Persistencia.java</file>
+    </open-files>
+</project-private>
